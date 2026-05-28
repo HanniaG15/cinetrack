@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "CineTrack — Descubre Películas y Series",
   description:
     "Explora las películas y series más populares, busca tus favoritas y guarda tu watchlist personal.",
-  metadataBase: new URL("https://cinetrack.vercel.app"),
+  metadataBase: new URL("https://cinetrack-three.vercel.app"),
   openGraph: {
     title: "CineTrack",
     description: "Descubre películas y series en tendencia",
